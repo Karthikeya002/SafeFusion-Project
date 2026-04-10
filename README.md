@@ -83,7 +83,7 @@ SafeFusion/
 │── README.md
 ▶️ Installation & Setup
 1. Clone the Repository
-git clone https://github.com/your-username/SafeFusion.git
+git clone [https://github.com/your-username/SafeFusion.git](https://github.com/Karthikeya002/SafeFusion-Project)
 cd SafeFusion
 2. Install Dependencies
 pip install -r requirements.txt
